@@ -53,6 +53,6 @@ run.bat最终运行的是main.exe要是想让他运行其它的就要修改main.
 Makefile中只是把main.cpp编译为main.exe,要是想要复杂功能的需要修改
 
 ## 运行效果
-直接运行
-![](run.png)
+直接运行run.bat,run.bat自己会运行make来执行当前文件夹下的Makefile
+![runPic](run.png)
 绿色框框中就是运行输出。
