@@ -1,6 +1,7 @@
 # FFmpeg64bit-Compile-script-And-Makefile-on-Windows
 
 windows上配置和编译ffmpeg有点麻烦，写一个脚本方便运行
+
 main.c和video.mp4可以用来测试脚本能不能用
 
 ## Makefile变量
