@@ -1,9 +1,13 @@
 # FFmpeg64bit-Compile-script-And-Makefile-on-Windows
-![](https://img.shields.io/badge/bat-35.4%25-red)
 
-![](https://img.shields.io/badge/Makefile-8.2%25-green)
+<table style="display: inline-block;">
+  <tr>
+    <td width="150px" height="50px" style="border: 1px solid black;"><img src="https://img.shields.io/badge/bat-35.4%25-red"></td>
+    <td width="150px" height="50px" style="border: 1px solid black;"><img src="https://img.shields.io/badge/Makefile-8.2%25-green"></td>
+    <td width="150px" height="50px" style="border: 1px solid black;"><img src="https://img.shields.io/badge/other-56.4%25-yellow"></td>
+  </tr>
+</table>
 
-![](https://img.shields.io/badge/other-56.4%25-yellow)
 
 windows上配置和编译ffmpeg有点麻烦，写一个脚本方便运行
 
